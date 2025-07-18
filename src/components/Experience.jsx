@@ -5,8 +5,8 @@ import '../styling/Experience.css';
 const experiences = [
   {
     role: 'Machine Learning Engineer Intern',
-    company: 'Debt Collection Co.',
-    duration: 'Jan 2024 – Apr 2024',
+    company: 'TenSpot',
+    duration: 'April 2021 – Dec 2024',
     description: 'Worked on ML models to predict repayment likelihood and reduce default rates.'
   },
   {
