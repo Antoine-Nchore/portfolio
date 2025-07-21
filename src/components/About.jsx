@@ -21,6 +21,20 @@ export default function About() {
         I enjoy building scalable systems and creating meaningful impact through technology. Currently focused on
         working with JavaScript, React, Python, FastAPI, and ML frameworks like TensorFlow and scikit-learn.
       </p>
+      <a href="/public/mokaya-nchore-upated-cv .pdf" download="Nchore-Resume.pdf" style={{
+          backgroundColor: '#007bff',
+          color: 'white',
+          padding: '10px 20px',
+          border: 'none',
+          borderRadius: '5px',
+          cursor: 'pointer',
+          fontSize: '1rem',
+          marginTop: '1rem',
+          textDecoration: 'none',
+          display: 'inline-block'
+      }}>
+        Download Resume
+      </a>
     </section>
   );
 }
