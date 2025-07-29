@@ -1,0 +1,41 @@
+# Mokaya Nchore Portfolio - Requirements
+
+## Node.js Version
+Node.js >= 18.0.0
+npm >= 9.0.0
+
+## Production Dependencies
+@emailjs/browser@^4.4.1          # Email functionality for contact form
+framer-motion@^12.23.6           # Smooth animations and transitions
+react@^19.1.0                    # React framework
+react-dom@^19.1.0                # React DOM rendering
+
+## Development Dependencies
+@eslint/js@^9.30.1               # ESLint core
+@types/react@^19.1.8             # React TypeScript definitions
+@types/react-dom@^19.1.6         # React DOM TypeScript definitions
+@vitejs/plugin-react@^4.6.0      # Vite React plugin
+eslint@^9.30.1                   # JavaScript linter
+eslint-plugin-react-hooks@^5.2.0 # React hooks ESLint rules
+eslint-plugin-react-refresh@^0.4.20 # React refresh ESLint plugin
+globals@^16.3.0                  # Global variables for ESLint
+vite@^7.0.4                      # Build tool and dev server
+
+## Installation Commands
+npm install                      # Install all dependencies
+npm run dev                      # Start development server
+npm run build                    # Build for production
+npm run preview                  # Preview production build
+npm run lint                     # Run ESLint
+
+## Browser Support
+- Chrome >= 87
+- Firefox >= 78
+- Safari >= 14
+- Edge >= 88
+
+## System Requirements
+- Operating System: Windows 10+, macOS 10.15+, or Linux
+- RAM: 4GB minimum, 8GB recommended
+- Storage: 500MB free space
+- Internet connection (for EmailJS functionality)
