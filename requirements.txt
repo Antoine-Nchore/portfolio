@@ -5,7 +5,6 @@ Node.js >= 18.0.0
 npm >= 9.0.0
 
 ## Production Dependencies
-@emailjs/browser@^4.4.1          # Email functionality for contact form
 framer-motion@^12.23.6           # Smooth animations and transitions
 react@^19.1.0                    # React framework
 react-dom@^19.1.0                # React DOM rendering

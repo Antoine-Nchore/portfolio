@@ -4,28 +4,36 @@ import '../styling/Projects.css';
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A full-stack e-commerce web application with user authentication, product catalog, shopping cart functionality, and secure payment processing. Features include admin dashboard for inventory management, order tracking, and responsive design for optimal mobile experience.',
-    image: '/api/placeholder/400/250', // Placeholder image - will be replaced with actual project screenshot
-    technologies: ['React', 'Node.js', 'MongoDB', 'Stripe API'],
-    deployedLink: '#', // Will be updated with actual link
-    githubLink: '#'   // Will be updated with actual link
+    title: 'BreeLarry',
+    description: 'A full-stack e-commerce web application with, product catalog, shopping cart functionality, and secure payment processing. Features include admin dashboard for inventory management, order tracking, and responsive design for optimal mobile experience.',
+    image: 'https://pagecreative.co.uk/wp-content/uploads/2023/10/AdobeStock_223290240-1-2-scaled.jpeg',
+    technologies: ['Python', 'React', 'Flask', 'Postgres', 'Daraja API'],
+    deployedLink: 'https://phase-2-project-five.vercel.app/',
+    githubLink: 'https://github.com/Antoine-Nchore/e-commerce-frontend, https://github.com/Antoine-Nchore/e-commerce-backend' 
   },
   {
-    title: 'ML Prediction System',
-    description: 'A machine learning application that predicts customer behavior and market trends using advanced algorithms. Built with Python and deployed using FastAPI, featuring data visualization dashboards, real-time predictions, and automated model retraining capabilities.',
-    image: '/api/placeholder/400/250', // Placeholder image - will be replaced with actual project screenshot
-    technologies: ['Python', 'FastAPI', 'TensorFlow', 'Pandas', 'Plotly'],
-    deployedLink: '#', // Will be updated with actual link
-    githubLink: '#'   // Will be updated with actual link
+    title: 'Diabetes Prediction Model',
+    description: 'This project focuses on building a machine learning model to predict the likelihood of diabetes in patients based on medical features such as glucose levels, BMI, age, and insulin levels. The goal is to support early diagnosis and intervention.',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2xIbXcm8VcNxLi44s-6ppfpR4zHJpedyuA&s', 
+    technologies: ['Python', 'FastAPI', 'Scikit-learn', 'Pandas', 'Matplotlib', 'Seaborn',],
+    deployedLink: '#',
+    githubLink: 'https://github.com/Antoine-Nchore/d-risk-model'   
   },
   {
-    title: 'Task Management App',
-    description: 'A collaborative project management tool with real-time updates, team collaboration features, and intuitive drag-and-drop interface. Includes task assignment, progress tracking, deadline management, and integration with popular productivity tools.',
-    image: '/api/placeholder/400/250', // Placeholder image - will be replaced with actual project screenshot
-    technologies: ['React', 'Socket.io', 'Express.js', 'PostgreSQL'],
-    deployedLink: '#', // Will be updated with actual link
-    githubLink: '#'   // Will be updated with actual link
+    title: 'Elimika',
+    description: 'This project is a web-based e-learning system designed to enhance digital education by allowing learners to log in, access class materials, provide feedback, rate courses, and track their learning progress. It supports a personalized learning experience and fosters interaction between students and educators.',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQglMO3s50FETkspMTwYwh8b7B4rLkN2iAQ2Q&s', 
+    technologies: ['React', 'Flask', 'Python', 'PostgreSQL'],
+    deployedLink: 'https://elimika.vercel.app/',
+    githubLink: 'https://github.com/NathanSachombe/Elimika-Backend, https://github.com/NathanSachombe/Elimika-Frontend/tree/main/elimika'
+  },
+  {
+    title:'NeuroMath',
+    description:"MathMind is an intelligent math reasoning system that combines Optical Character Recognition (OCR), symbolic computation, and large language models (LLMs) to solve complex math problems from both text and images. It interprets hand-written or printed math expressions from images (including flowcharts and diagrams), translates them into symbolic form using OCR (EasyOCR/PyTesseract), and solves them using SymPy or a locally hosted LLM.",
+    image:"https://mymathsclub.com/wp-content/uploads/2024/07/0dc62925-e449-4108-9fa2-7c0823f7bb56.webp",
+    technologies:['LLM Integration (LLaVA)', 'Symbolic Math Engine', 'OCR Tools', ' Image Understanding (diagrams, flowcharts)', 'RAG: Retrieval-Augmented Generation for enhanced context-based solutions','Python, FastAPI (for the backend), Git'],
+    deployedLink:'#',
+    githubLink:'https://github.com/Antoine-Nchore/math_ai'
   }
 ];
 

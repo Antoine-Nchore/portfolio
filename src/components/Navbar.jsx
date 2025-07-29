@@ -30,7 +30,7 @@ export default function Navbar() {
                 transition={{ duration: 1 }}
             >
                 <h1>Hello, I am <span className="highlight">Anthony Nchore</span></h1>
-                <p>I am a Software Engineer.</p>
+                <p>I am a Software Engineer and a Machine Learning Engineer.</p>
             </motion.div>
         </header>
     );
