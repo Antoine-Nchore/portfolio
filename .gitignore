@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+EMAILJS_TROUBLESHOOTING.md
+emailjs-test.js
+EMAILJS_SETUP.md
