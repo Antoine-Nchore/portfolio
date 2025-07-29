@@ -239,7 +239,7 @@ The portfolio uses a modern dark theme. Main colors:
 ## 👨‍💻 Author
 
 **Mokaya Nchore**
-- 🌐 Portfolio: [Your Portfolio URL]
+- 🌐 Portfolio: https://portfolio-3yv6.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/anthony-nchore-a988b0180/
 - 📧 Email: anthonynchore@gmail.com
 - 🐙 GitHub: https://github.com/Antoine-Nchore
